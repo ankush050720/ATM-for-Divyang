@@ -1,4 +1,4 @@
-# ATM for specially abled (Divyang) people
+# ATM for specially-abled (Divyang) people
 
 A protoype build of an ATM to increase accessibility and safety features for divyang. 
 It encorporates five stage verification for safety measures - 
